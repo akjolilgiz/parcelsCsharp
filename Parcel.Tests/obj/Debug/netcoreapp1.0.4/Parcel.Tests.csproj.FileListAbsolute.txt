@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/Parcels.Solution/Parcel.Tests/bin/Debug/netcoreapp1.0.4/Parcel.Tests.deps.json
+/Users/Guest/Desktop/Parcels.Solution/Parcel.Tests/bin/Debug/netcoreapp1.0.4/Parcel.Tests.runtimeconfig.json
+/Users/Guest/Desktop/Parcels.Solution/Parcel.Tests/bin/Debug/netcoreapp1.0.4/Parcel.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/Parcels.Solution/Parcel.Tests/obj/Debug/netcoreapp1.0.4/Parcel.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/Parcels.Solution/Parcel.Tests/bin/Debug/netcoreapp1.0.4/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/Parcels.Solution/Parcel.Tests/bin/Debug/netcoreapp1.0.4/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/Parcels.Solution/Parcel.Tests/bin/Debug/netcoreapp1.0.4/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/Parcels.Solution/Parcel.Tests/bin/Debug/netcoreapp1.0.4/Parcel.Tests.dll
+/Users/Guest/Desktop/Parcels.Solution/Parcel.Tests/bin/Debug/netcoreapp1.0.4/Parcel.Tests.pdb
+/Users/Guest/Desktop/Parcels.Solution/Parcel.Tests/bin/Debug/netcoreapp1.0.4/Parcel.dll
+/Users/Guest/Desktop/Parcels.Solution/Parcel.Tests/bin/Debug/netcoreapp1.0.4/Parcel.pdb
+/Users/Guest/Desktop/Parcels.Solution/Parcel.Tests/obj/Debug/netcoreapp1.0.4/Parcel.Tests.dll
+/Users/Guest/Desktop/Parcels.Solution/Parcel.Tests/obj/Debug/netcoreapp1.0.4/Parcel.Tests.pdb
